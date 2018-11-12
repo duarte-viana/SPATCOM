@@ -6,3 +6,5 @@
 # Authors: Duarte S. Viana, Jonathan M. Chase
 # Journal: Ecology
 # Year: 2018
+
+# https://zenodo.org/badge/latestdoi/124080296
